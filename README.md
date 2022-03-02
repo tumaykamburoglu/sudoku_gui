@@ -1,1 +1,1 @@
-# sudoku_gui
+# A simple C++ sudoku GUI using wxWidgets
